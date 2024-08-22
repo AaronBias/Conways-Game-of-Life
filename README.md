@@ -11,4 +11,4 @@ Running this program requires a Windows OS because of the libraries used.
 Compile and run the .exe file to launch.
 
 ## Screenshot
- 
+![game-of-life](https://github.com/user-attachments/assets/aca3bb32-7809-4a3f-ba69-774577957e2e) 
